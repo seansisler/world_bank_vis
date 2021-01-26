@@ -1,2 +1,3 @@
-# world_bank_vis
-visualization of world bank indicators
+# Make database
+
+# Tableau visualization
